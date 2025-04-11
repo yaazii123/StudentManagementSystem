@@ -1,5 +1,4 @@
 # StudentManagementSystem
-Efficient Student Data Handling
 It helps in:
 Adding student records
 Viewing all students
